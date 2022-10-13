@@ -23,13 +23,9 @@
 #       descr: 社交分享平台
 
 - class_name: 小伙伴
-  class_desc: 那些写博客的小伙伴们
+  class_desc: 三人行，必有我师焉
   link_list:
-    - name: iforget
-      link: https://algo.ac.cn/
-      avatar: https://algo.ac.cn/upload/2021/08/avatar-cbb4b3d3ff824685a740bc7980410680.png
-      descr: 软件开发，C/C++逆向，机器学习
-    - name: wzlong03
-      link: https://gnol3.top/
-      avatar: http://gnol3.top/images/gnol3200x200.png
-      descr: hello_world
+    - name: BearSir
+      link: https://blog.cuijiacai.com/
+      avatar: https://smms.app/image/JZ2gPByiWo93RGI
+      descr: 全方位大佬
