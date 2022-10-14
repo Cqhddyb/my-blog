@@ -34,7 +34,7 @@ date: 2022-10-14 13:57:22
 ![victor](http://m.qpic.cn/psc?/V53jW4D91kOesq1DPCaR1gFdnj2TzFle/ruAMsa53pVQWN7FLK88i5rqV2CepK4kdqjT2.MQsrpugB6DY83YLhNoTF20FknZoyDQLutA6IYOnZlvld.WHrTKUlg9Q7eWgupbHemDHIqQ!/mnull&bo=dAHQAHQB0AADByI!&rf=photolist&t=5)
 
 ### 小隼 蓝4UG5 cn 600RMB（包含穿线和手胶）  
-![hawk](http://m.qpic.cn/psc?/V53jW4D91kOesq1DPCaR1gFdnj2TzFle/ruAMsa53pVQWN7FLK88i5rqV2CepK4kdqjT2.MQsrpvDZSWY.bEPWmh3p5b3H25bsumcGe8jF1bKlBzIpRuUMB6J7fzWT0NvTlUhLnqM3K0!/mnull&bo=aQJpAmkCaQIBByA!&rf=photolist&t=5)
+![hawk](http://m.qpic.cn/psc?/V53jW4D91kOesq1DPCaR1gFdnj2TzFle/ruAMsa53pVQWN7FLK88i5rqV2CepK4kdqjT2.MQsrpugB6DY83YLhNoTF20FknZoyDQLutA6IYOnZlvld.WHrTKUlg9Q7eWgupbHemDHIqQ!/b&bo=dAHQAHQB0AADFzI!&rf=viewer_4)
 
 这是我入的第二把中端拍，也许能算得上中高端，但使用感受却不尽人意。尤其我刚入门的时候，这把拍子在知乎、b站等等平台被宣传得神乎其神，甚至被冠以进阶拍性价比首选等等美誉。就从性价比说起，460左右的黑小隼还能跻身高性价比球拍的行列，而因为颜值和传销价格一路高歌猛进甚至售价突破600大关的蓝小隼，在我眼里已经完完全全没有性价比了。 
 
