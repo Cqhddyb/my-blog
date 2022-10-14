@@ -14,9 +14,13 @@ date: 2022-10-14 13:57:22
 
 # 装备
 
-## 尤尼克斯 <img src="./badminton/yonex.png" width="30%">
+## 尤尼克斯 
 
-### 弓11新色 3UG5 sp <img src="./badminton/gong11-1.jpg" width="60%">
+<img src="./badminton/yonex.png" width="30%">
+
+### 弓11新色 3UG5 sp 
+
+<img src="./badminton/gong11-1.jpg" width="60%">
 
 弓11是我第一把3U规格的拍子，也是第一把高端拍，至于为什么第一把选择了她，最重要的因素还是看中了她的颜值。
 <img src="./badminton/gong11-2.jpg" width="50%">
@@ -26,7 +30,9 @@ date: 2022-10-14 13:57:22
 刚入门就听说遇事不决弓11，果真名不虚传，大拍面配合冷静的脚步能接到不少第一眼以为碰不到的球。  
 未完待续···
 
-### 二姐夫原色 4UG5 sp <img src="./badminton/zf2-1.jpg" width="50%">
+### 二姐夫原色 4UG5 sp 
+
+<img src="./badminton/zf2-1.jpg" width="50%">
 
 二姐夫，我还未识得她庐山真面目的时候，就已经听说了“断腕神器”的鼎鼎大名。
 
@@ -34,7 +40,9 @@ date: 2022-10-14 13:57:22
 
 ---
 
-## 胜利 <img src="./badminton/victor.png" width="30%">
+## 胜利 
+
+<img src="./badminton/victor.png" width="30%">
 
 ### 小隼 蓝4UG5 cn   
 <img src="./badminton/xiaosun.jpg" width="50%">
@@ -45,11 +53,17 @@ date: 2022-10-14 13:57:22
 
 然而，他与新手似乎并不适配，相对不大的拍框想要打中甜区，对于笨拙的我真的是难上加难。刚换上小隼的那一晚，隔几拍就能听到“悦耳”的打铁声，心疼漆水之余更是产生了前所未有的自我怀疑···
 
-### 龙牙之刃 一代新色 3UG5 海外版 <img src="./badminton/longya.jpg" width="45%">
+### 龙牙之刃 一代新色 3UG5 海外版 
+
+<img src="./badminton/longya.jpg" width="45%">
 
 ---
 
-## 李宁  <img src="./badminton/lining.png" width="30%">
+## 李宁  
 
-### 锋影500 4UG5 <img src="./badminton/fy500.jpg" width="50%">
+<img src="./badminton/lining.png" width="30%">
+
+### 锋影500 4UG5 
+
+<img src="./badminton/fy500.jpg" width="50%">
 
