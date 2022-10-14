@@ -22,7 +22,7 @@
 #       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
 #       descr: 社交分享平台
 
-- class_name: 小伙伴
+- class_name: 小伙伴们和老师们
   class_desc: 三人行，必有我师焉
   link_list:
     - name: BearSir
