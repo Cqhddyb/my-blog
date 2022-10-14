@@ -14,12 +14,12 @@ date: 2022-10-14 13:57:22
 
 # 装备
 
-## 尤尼克斯 ![](./badminton/yonex.png)
+## 尤尼克斯 <img src="./badminton/yonex.png" width="30%">
 
-### 弓11新色 3UG5 sp 1099RMB 空拍 ![](./badminton/gong11-1.jpg)
+### 弓11新色 3UG5 sp 1099RMB 空拍 <img src="./badminton/gong11-1.jpg" width="60%">
 
 弓11是我第一把3U规格的拍子，也是第一把高端拍，至于为什么第一把选择了她，最重要的因素还是看中了她的颜值。
-![](./badminton/gong11-2.jpg)
+<img src="./badminton/gong11-2.jpg" width="50%">
 
 刚穿完线挥动起来还是有点担忧的，并不是立马能够适应，但打了一场之后就深深爱上了。
 
@@ -28,10 +28,10 @@ date: 2022-10-14 13:57:22
 
 ---
 
-## 胜利 ![](./badminton/victor.png)
+## 胜利 <img src="./badminton/victor.png" width="30%">
 
 ### 小隼 蓝4UG5 cn 600RMB（包含穿线和手胶）  
-![](./badminton/xiaosun.jpg)
+<img src="./badminton/xiaosun.jpg" width="60%">
 
 这是我入的第二把中端拍，也许能算得上中高端，但使用感受却不尽人意。尤其我刚入门的时候，这把拍子在知乎、b站等等平台被宣传得神乎其神，甚至被冠以进阶拍性价比首选等等美誉。就从性价比说起，460左右的黑小隼还能跻身高性价比球拍的行列，而因为颜值和传销价格一路高歌猛进甚至售价突破600大关的蓝小隼，在我眼里已经完完全全没有性价比了。 
 
@@ -42,3 +42,4 @@ date: 2022-10-14 13:57:22
 ### 龙牙之刃 一代新色 3UG5 海外jp版 1180RMB 空拍
 
 ## 李宁
+
