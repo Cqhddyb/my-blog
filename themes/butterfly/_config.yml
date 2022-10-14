@@ -654,10 +654,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/JacyCui
+      link: https://github.com/Cqhddyb
   card_announcement:
     enable: true
-    content: 静态分析基础教程已完结，后续会有校验，详见右上方系列教程下拉菜单。
+    content: 启航的小屋搭好啦，以后会陆续更新计科基础知识和一些兴趣爱好分享哒
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
