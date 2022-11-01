@@ -30,145 +30,205 @@ date: 2022-10-21 13:57:22
 虽然我读的书不算很少，但也自感无能无力写详细书评，所以每本书只大概说说我自己喜欢或嫌弃的地方，介绍的方式也就随心所欲一些了,也没有一个适合的顺序，印象比较深的自然放在前面，剩下的就看回忆什么时候显灵了。
 
 ## 房思琪的初恋乐园  
-<img src="./Reading/fsqcl.webp" width="35%">
+<img src="./Reading/fsqcl.webp" width="30%">
 
 文学辜负了我们，真诚者以文学表达真诚，虚伪者也能用文学遮掩虚伪。一个真正相信中文的人，又怎么可以背叛者浩浩汤汤五千多年的语境···
 
 ## 素食者  
-<img src="./Reading/ssz.webp" width="50%">
+<img src="./Reading/ssz.webp" width="40%">
 
 活在这珍贵的人间，人类和植物一样幸福，爱情和雨水一样幸福。这本书里容不下海子的诗，人类，远不及植物幸福。
 
 ## 白鹿原
 
-<img src="./Reading/bailuyuan.jpeg" width="40%">
+<img src="./Reading/bailuyuan.jpeg" width="35%">
 
 书里的人很有人味儿。
 
 ## 文城
 
-<img src="./Reading/wencheng.png" width="40%">
+<img src="./Reading/wencheng.png" width="30%">
 
 讲的故事有点不太像余华的作风，看这书很有种看电影的感觉，恰恰是我这个年纪最爱听的故事。
 
 ## 兄弟
 
-<img src="./Reading/xiongdi.webp" width="35%">
+<img src="./Reading/xiongdi.webp" width="30%">
 
 荒诞而又真实，这本书里频繁出现的不太高雅的幽默，很合我的口味，看起来没有那么大心理负担。
 
 ## 活着
 
-<img src="./Reading/huozhe.webp" width="50%">
+<img src="./Reading/huozhe.webp" width="40%">
 
 别像我一样在晚上看，不看完睡不着，看完了更睡不着···
 
 ## 许三观卖血记
 
-<img src="./Reading/xusanguan.webp" width="50%">
+<img src="./Reading/xusanguan.webp" width="40%">
 
 那段时间每天想吃猪肝，看书把自己看出一种贫血的错觉。
 
 ## 小李飞刀
 
-<img src="./Reading/xiaolifeidao.png" width="50%">
+<img src="./Reading/xiaolifeidao.png" width="40%">
 
 快，快，快。拳脚刀剑快，小李飞刀快，爱恨恩仇快，一切都快，看起来也很快。实在觉得古龙对女人有些偏见，而且故事里的人都有种横空出世的感觉，没有金庸武侠里的那种成长过程。似乎一上来就已经排好了座次，李寻欢形象还算完整，到后面叶开等人就直接石头缝里蹦出来的一样没有太多故事可言，书里的女人更是潦草，很多地方莫名其妙，也可能本身古龙眼里女人某些方面正是莫名其妙的。
 
 ## 绝代双骄
 
-<img src="./Reading/juedaishuangjiao.png" width="35%">
+<img src="./Reading/juedaishuangjiao.png" width="25%">
 
 古龙的武侠小说本身就有种浓重的江湖感，游历四海每天遇见不同的人。
 
 ## 射雕英雄传
 
-<img src="./Reading/shediao.webp" width="40%">
+<img src="./Reading/shediao.webp" width="30%">
 
 这是我第一次看金庸的小说，真的爱不释手。
 
 ## 神雕侠侣
 
-<img src="./Reading/shendiaoxialv.webp" width="60%">
+<img src="./Reading/shendiaoxialv.webp" width="40%">
 
 小龙女/色/色，射雕两部曲里误会真的多，急的我都要边转圈边看。
 
 ## 倚天屠龙记
 
-<img src="./Reading/yitiantulongji.webp" width="40%">
+<img src="./Reading/yitiantulongji.webp" width="25%">
 
 这本书是我读金庸以来最不喜欢的一本。书里张无忌整个就是一个开了挂的正直渣男形象，我不是很喜欢，基本没啥特点，
 还好有我比较喜欢的小昭，不然高低骂几句。倒是魔教教主那部电影很有趣，里面的张无忌才是我心目中的形象，赵敏小昭也是美得我直傻笑，嘿嘿。
 
 ## 天龙八部
 
-<img src="./Reading/tianlongbabu.jpg" width="60%">
+<img src="./Reading/tianlongbabu.jpg" width="40%">
 
 同样是开挂，这书里的人就很有个性，尤爱乔峰，真的是男人中的男人。
 
 ## 笑傲江湖
 
-<img src="./Reading/xiaoaojianghu.webp" width="50%">
+<img src="./Reading/xiaoaojianghu.webp" width="40%">
 
 令狐冲好帅啊好帅啊
 
 ## 鹿鼎记
 
-<img src="./Reading/ludingji.webp" width="50%">
+<img src="./Reading/ludingji.webp" width="40%">
 
 扬州风评被害···早知道金庸老人家藏了一手。
 
 ## 飞狐外传
 
-<img src="./Reading/feihuwaizhuan.webp" width="40%">
+<img src="./Reading/feihuwaizhuan.webp" width="30%">
 
 金庸短一些的小说看起来不过瘾，之前看的都是四本四本的，这次两本的看了有些无感···
 
 ## 呐喊
 
-<img src="./Reading/nahan.webp" width="45%">
+<img src="./Reading/nahan.webp" width="30%">
 
 这几乎是一本由课文组成的书，孔乙己、社戏、故乡、祥林嫂、药等等，最爱的还是鲁迅先生在社戏、故乡里夹带的一点私货，愤怒的笔尖下还是不能自已地流露出一点儿时的温情。
 
 ## 彷徨
 
-<img src="./Reading/panghuang.webp" width="45%">
+<img src="./Reading/panghuang.webp" width="30%">
 
 相比呐喊，彷徨整个就是乌漆嘛黑一片。
 
 ## 野草
 
-<img src="./Reading/yecao.webp" width="45%">
+<img src="./Reading/yecao.webp" width="30%">
 
 架子上有两本书，一本是鲁迅的书，另一本也是鲁迅的书···
 
 ## 插花地册子
 
-<img src="./Reading/chahuadicezi.jpg" width="45%">
+<img src="./Reading/chahuadicezi.jpg" width="35%">
 
 爱读书的人总能产生些共鸣，虽然止庵先生品味比我高些，有些我挺喜欢的书被他批成了一坨屎。
 
 ## 美国众神
 
-<img src="./Reading/meiguozhongshen.webp" width="60%">
+<img src="./Reading/meiguozhongshen.webp" width="40%">
+
+现代的神话故事，不要把之前对古代神的刻板印象代入这本书，不然完全猜不出下一步的发展。
 
 ## 雪落香杉树
 
-## 龙纹身的女孩
+<img src="./Reading/xueluoxiangshanshu.webp" width="35%">
+
+不太记得种族偏见了，就记得死者某些部位又粉又大···
+
+## 千禧三部曲
+
+<img src="./Reading/qianxisanbuqu.webp" width="35%">
+
+不要惹有纹身的女人  
+
+普通人头上挨一枪原来也能活
 
 ## 汉字书法之美
 
+<img src="./Reading/hanzishufazhimei.webp" width="35%">
+
+小时候也练过几个月的字，十分的痛苦；但读了这本书，会感受一点汉字的趣味。
+
 ## 菊与刀
+
+<img src="./Reading/juyudao.webp" width="30%">
+
+之前自以为对日本文化挺感兴趣的，读了这本书才发现自己叶公好龙了···
 
 ## 边城
 
+<img src="./Reading/biancheng.webp" width="30%">
+
+也许明天回来，还是老一辈的爱情故事深得我心。为此专门出去旅行了一次，然而并未见到边城，只有充斥着商业旅游气息的凤凰古镇···
+
+## 湘行散记
+
+<img src="./Reading/xiangxingsanji.webp" width="35%">
+
+读了边城喜欢上了沈从文，结果湘行散记又把我打回原形了，读起来实在有点拗口，还好吊脚楼的故事并不少，勉强还能看下去。
+
 ## 围城
+
+<img src="./Reading/weicheng.jpeg" width="30%">
+
+疫情封校的大学···
+
+钱钟书的小说也不是那么好读的，对于中学时的我还是有些困难。
+
+## 宋诗选注
+
+<img src="./Reading/songshixuanzhu.webp" width="35%">
+
+《围城》我尚且读不明白，宋诗选注只能望洋兴叹了。
 
 ## 棋王树王孩子王
 
+<img src="./Reading/qiwangshuwanghaiziwang.jpg" width="30%">
+
+我唯一觉得有些美中不足的就是三个故事有点走下坡路，不过也可能是棋王那部分太精彩了。
+
 ## 干校六记
 
+<img src="./Reading/ganxiaoliuji.jpg" width="35%">
+
+杨绛先生的书对于中学时的我绝对比钱钟书先生的书可爱多了。
+
 ## 我们仨
+
+<img src="./Reading/womensan.webp" width="35%">
+
+如果没发生这么多悲剧，这真的是我理想中的最可爱的家。
+
+## 将饮茶
+
+<img src="./Reading/jiangyincha.webp" width="40%">
+
+很爱杨绛先生的回忆方式，几十年千帆过尽都付谈笑间。
 
 ## 至味在人间
 
@@ -187,6 +247,12 @@ date: 2022-10-21 13:57:22
 ## 顾城的诗
 
 ## 北岛的诗
+
+## 文化苦旅
+
+## 借我一生
+
+## 妞妞，一个父亲的札记
 
 ## 福尔摩斯探案集
 
