@@ -510,17 +510,51 @@ date: 2022-10-21 13:57:22
 
 ## 撒哈拉的故事
 
+<img src="./Reading/sahaladegushi.webp" width="30%">
+
+荷西的离去是一道分界线，在这之前即使撒哈拉的生活都充满幸福，三毛也是为数不多我和我妈都很喜欢的作家，她年轻时对生活的态度一直是我的榜样。
+
+## 雨季不再来
+
+<img src="./Reading/yujibuzailai.webp" width="30%">
+
+真的很喜欢三毛，她的快乐和痛苦通通由文字传导至我的心里。
+
 ## 半生缘
+
+<img src="./Reading/banshengyuan.webp" width="30%">
+
+张爱玲的书中我看的最快的一本，又是我最爱的遗憾、错过，里面的一些句子至今难忘。从此喜欢上张爱玲的文字。
 
 ## 白夜行
 
+<img src="./Reading/baiyexing.webp" width="30%">
+
+不喜欢白夜行，白夜行和幻夜这两本书里的女主角都有点不真实感，就好像小李飞刀里的林仙儿和上官小仙一样，因为对女主的厌恶导致了对这本书喜欢不起来。
+
 ## 嫌疑人X的献身
+
+<img src="./Reading/xianyirenx.webp" width="30%">
+
+东野圭吾的小说里比较喜欢的一部，确实带给我一些惊讶和震撼。
 
 ## 沉默的巡游
 
+<img src="./Reading/chenmodexunyou.webp" width="30%">
+
+东野圭吾的很多小说就是跟连续剧一样，看的时候感觉不错，看过了也没啥印象。
+
 ## 幻夜
 
+<img src="./Reading/huanye.jpg" width="30%">
+
+同《白夜行》一样，喜欢不起来。
+
 ## 解忧杂货铺
+
+<img src="./Reading/jieyouzahuopu.webp" width="30%">
+
+故事本身还说得过去，但温情又温的不大对味，我自己不是特别喜欢。
 
 ## 霸王别姬
 
