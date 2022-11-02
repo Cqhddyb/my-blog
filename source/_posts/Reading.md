@@ -426,21 +426,51 @@ date: 2022-10-21 13:57:22
 
 ## 雷雨
 
+<img src="./Reading/leiyu.jpg" width="40%">
+
+高中话剧表演，雷雨独占鳌头。
+
 ## 茶馆
+
+<img src="./Reading/chaguan.webp" width="40%">
+
+有俩大兵很爱爆粗。
 
 ## 骆驼祥子
 
+<img src="./Reading/luotuoxiangzi.webp" width="40%">
+
+白面袋子究竟有多大···
+
 ## 2001太空漫游
+
+<img src="./Reading/2001taikongmanyou.webp" width="35%">
+
+一年高考题出的很难，第二年就被挖掘透了，2001太空漫游可能当年很牛，但现在来看真的还好···书也是一样，并没有特别震撼。
 
 ## 三体
 
+<img src="./Reading/santi.webp" width="40%">
+
+不多说了，都给我看。
+
 ## 哈利波特
+
+<img src="./Reading/halibote.webp" width="40%">
+
+都给我看！！！电影也一起看！！！
 
 ## 小王子
 
-## 
+<img src="./Reading/xiaowangzi.webp" width="40%">
+
+小甜点，看起来很快，回味起来却很久。
 
 ## 玩家1号
+
+<img src="./Reading/wanjia1hao.jpg" width="30%">
+
+其实书里的很多游戏、影视都不是我这个时代的，但身为男孩看的还是异常兴奋。
 
 ## 无人生还
 
