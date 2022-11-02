@@ -144,7 +144,15 @@ date: 2022-10-21 13:57:22
 
 ## 故事新编
 
+<img src="./Reading/gushixinbian.webp" width="30%">
+
+完全当故事看都没什么问题···
+
 ## 朝花夕拾
+
+<img src="./Reading/zhaohuaxishi.webp" width="40%">
+
+对这本书本来印象很好，然而出题人一再问朝花夕拾比起旧事重提来好在哪里，于是对这本书就没之前那样喜爱了。
 
 ## 插花地册子
 
@@ -154,25 +162,75 @@ date: 2022-10-21 13:57:22
 
 ## 看见
 
+<img src="./Reading/kanjian.webp" width="30%">
+
+还记得那个穿着破烂篮球服的纤细外国人，好像还有个犯错误的小孩···确实能看见很多。
+
 ## 人间草木
+
+<img src="./Reading/renjiancaomu.webp" width="35%">
+
+我和我妈在读书方面品味很难达成一致，但汪曾祺的散文却同时得到了我们的喜爱。可能一方面汪曾祺老家是高邮的，和我们也算是靠得比较近的老乡了。另一方面，汪曾祺懂吃，也懂玩，文字还接地气，很投我们的胃口。
 
 ## 苏菲的世界
 
+<img src="./Reading/sufeideshijie.webp" width="40%">
+
+初二的时候读这本书，我的心情是崩溃的，前半本读起来还挺吸引人的，越到后面越糊涂了，最后直接看不懂宣告放弃。
+
 ## 草房子
+
+<img src="./Reading/caofangzi.webp" width="30%">
+
+可能只是我小学时候不爱读书，但我一直认为这本书不太应该给低年级的小学生看，真的有点困难···至少我那时候是这样的。
 
 ## 欧亨利短篇小说集
 
+<img src="./Reading/ouhengliduanpianxiaoshuo.webp" width="40%">
+
+莫泊桑和契诃夫的短篇也看过一些，但还是欧亨利的看得比较多，然而刚开始效果不错，看多了就没有什么意料之外可言了，习惯了他的逻辑后发现很多结尾都有点类似，猜都猜的出来。
+
 ## 浮生六记
+
+<img src="./Reading/fushengliuji.webp" width="40%">
+
+清朝人写的书看起来好懂一些···
 
 ## 你的名字
 
+<img src="./Reading/nidemingzi.webp" width="30%">
+
+我是先看的书再看的电影，就是这么个俗套的故事确让青春时的我哭得稀里哗啦。
+
 ## 罗生门
+
+<img src="./Reading/luoshengmen.webp" width="30%">
+
+这本书也是，本来挺喜欢，但同名电影放映时声音实在太大，留下了不好的印象。
+
+## 怪谈·奇谭
+
+<img src="./Reading/guaitanqitan.jpg" width="30%">
+
+没读过聊斋，但这本书给我的感觉就是聊斋···
 
 ## 本源
 
+<img src="./Reading/benyuan.webp" width="35%">
+
+丹布朗的书，真的爱死，虽然我还是有时候会把丹布朗和斯蒂芬金搞混淆。
+
 ## 达芬奇密码
 
+<img src="./Reading/dafenqimima.webp" width="45%">
+
+好看好看！！！
+
 ## 失落的秘符
+
+<img src="./Reading/shiluodemifu.webp" width="35%">
+
+好看好看！！！
 
 ## 美国众神
 
@@ -420,11 +478,7 @@ date: 2022-10-21 13:57:22
 
 ## 基督山伯爵
 
-## 高老头
-
 ## 欧也妮·葛朗台
-
-## 
 
 ## 装在口袋里的爸爸
 
