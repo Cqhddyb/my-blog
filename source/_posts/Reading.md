@@ -474,13 +474,39 @@ date: 2022-10-21 13:57:22
 
 ## 无人生还
 
+<img src="./Reading/wurenshenghuan.webp" width="35%">
+
+可能是读这本书之前听见的赞美太多，导致看了之后反而有些失望，在我心目中这本书远不如东方快车谋杀案。
+
+## 东方快车谋杀案
+
+<img src="./Reading/dongfangkuaichemoushaan.jpg" width="35%">
+
+老版电影和书都好看，新版电影还没看过。
+
 ## 龙族
+
+<img src="./Reading/longzu.png" width="35%">
+
+别读江南的长篇，会让人变得不幸···青山刚昌顶多让人惋惜，他是真的把人逼疯不骂他不行。记得b站还有人专门分析过江南为什么写不了长篇，总而言之读这套书会先被虐的死去活来然后在苦苦等待续集中慢慢积攒戾气最终加入咒骂江南老贼的阵营。
 
 ## 九州缥缈录
 
+<img src="./Reading/jiuzhoupiaomiaolu.webp" width="30%">
+
+同理，江南老贼真的（脏话脏话***）
+
 ## 此间的少年
 
+<img src="./Reading/cijiandeshaonian.jpg" width="35%">
+
+这个尚且可以一看，青春遗憾深得我心，至少不会承受等不到续集的痛苦。
+
 ## 局部
+
+<img src="./Reading/jubu.webp" width="30%">
+
+陈丹青老师接受采访时的名句还是挺多的···这几本书中学时候看也还不错，至少他讲的我还能听得懂。
 
 ## 撒哈拉的故事
 
