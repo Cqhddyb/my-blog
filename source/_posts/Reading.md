@@ -9,7 +9,7 @@ abbrlink: 57389
 date: 2022-10-21 13:57:22
 ---
 
-# 前言
+# ***前言***
 
 我打小是个闷子，似乎把讲话的力气都用在哭鼻子上了，见人不敢打招呼，哭起来却有一股拼命的劲儿。
 
@@ -23,11 +23,15 @@ date: 2022-10-21 13:57:22
 
 但这些都通过各种各样的机遇成了我的一点小小的爱好。真奇妙啊。纪念一下过去，也送给将来的自己。
 
-# 读书
+---
+
+# ***读书***
 
 我开始能看的下去书，大概是从初中开始，可真正爱读书时已经是高一，大概年纪大了更静得下心来一些，但更主要的原因还是遇上了王舒成老师。我常认为他该去大学教书，因为在现代的教育模式里长大的我也曾经自然而然地认为在高中这个时间段的语文课上大谈特谈武侠小说甚至龙族简直是违背师德，但没办法，他越说我越喜欢。不多说了，以后会专门写一写我的老师们的。总之，高一高二是我至今为止读书效率最高的两年，回想起来这真是一个奇怪的矛盾，反而自己越有时间的时候越想不起读书，反而最忙忙碌碌的两年里求书若渴。
 
 虽然我读的书不算很少，但也自感无能无力写详细书评，所以每本书只大概说说我自己喜欢或嫌弃的地方，介绍的方式也就随心所欲一些了,也没有一个适合的顺序，印象比较深的自然放在前面，剩下的就看回忆什么时候显灵了。
+
+---
 
 ## 房思琪的初恋乐园  
 <img src="./Reading/fsqcl.webp" width="30%">
@@ -150,7 +154,7 @@ date: 2022-10-21 13:57:22
 
 ## 朝花夕拾
 
-<img src="./Reading/zhaohuaxishi.webp" width="40%">
+<img src="./Reading/zhaohuaxishi.webp" width="30%">
 
 对这本书本来印象很好，然而出题人一再问朝花夕拾比起旧事重提来好在哪里，于是对这本书就没之前那样喜爱了。
 
@@ -168,13 +172,13 @@ date: 2022-10-21 13:57:22
 
 ## 人间草木
 
-<img src="./Reading/renjiancaomu.webp" width="35%">
+<img src="./Reading/renjiancaomu.webp" width="30%">
 
 我和我妈在读书方面品味很难达成一致，但汪曾祺的散文却同时得到了我们的喜爱。可能一方面汪曾祺老家是高邮的，和我们也算是靠得比较近的老乡了。另一方面，汪曾祺懂吃，也懂玩，文字还接地气，很投我们的胃口。
 
 ## 苏菲的世界
 
-<img src="./Reading/sufeideshijie.webp" width="40%">
+<img src="./Reading/sufeideshijie.webp" width="30%">
 
 初二的时候读这本书，我的心情是崩溃的，前半本读起来还挺吸引人的，越到后面越糊涂了，最后直接看不懂宣告放弃。
 
@@ -186,7 +190,7 @@ date: 2022-10-21 13:57:22
 
 ## 欧亨利短篇小说集
 
-<img src="./Reading/ouhengliduanpianxiaoshuo.webp" width="40%">
+<img src="./Reading/ouhengliduanpianxiaoshuo.webp" width="30%">
 
 莫泊桑和契诃夫的短篇也看过一些，但还是欧亨利的看得比较多，然而刚开始效果不错，看多了就没有什么意料之外可言了，习惯了他的逻辑后发现很多结尾都有点类似，猜都猜的出来。
 
@@ -216,31 +220,31 @@ date: 2022-10-21 13:57:22
 
 ## 本源
 
-<img src="./Reading/benyuan.webp" width="35%">
+<img src="./Reading/benyuan.webp" width="25%">
 
 丹布朗的书，真的爱死，虽然我还是有时候会把丹布朗和斯蒂芬金搞混淆。
 
 ## 达芬奇密码
 
-<img src="./Reading/dafenqimima.webp" width="45%">
+<img src="./Reading/dafenqimima.webp" width="35%">
 
 好看好看！！！
 
 ## 失落的秘符
 
-<img src="./Reading/shiluodemifu.webp" width="35%">
+<img src="./Reading/shiluodemifu.webp" width="25%">
 
 好看好看！！！
 
 ## 美国众神
 
-<img src="./Reading/meiguozhongshen.webp" width="40%">
+<img src="./Reading/meiguozhongshen.webp" width="35%">
 
 现代的神话故事，不要把之前对古代神的刻板印象代入这本书，不然完全猜不出下一步的发展。
 
 ## 雪落香杉树
 
-<img src="./Reading/xueluoxiangshanshu.webp" width="35%">
+<img src="./Reading/xueluoxiangshanshu.webp" width="30%">
 
 不太记得种族偏见了，就记得死者某些部位又粉又大···
 
@@ -304,7 +308,7 @@ date: 2022-10-21 13:57:22
 
 ## 我们仨
 
-<img src="./Reading/womensan.webp" width="35%">
+<img src="./Reading/womensan.webp" width="30%">
 
 如果没发生这么多悲剧，这真的是我理想中的最可爱的家。
 
@@ -316,9 +320,21 @@ date: 2022-10-21 13:57:22
 
 ## 至味在人间
 
-<img src="./Reading/zhiweizairenjian.webp" width="35%">
+<img src="./Reading/zhiweizairenjian.webp" width="30%">
 
 每一页都是满满的吃货的趣味。
+
+## 雅舍谈吃
+
+<img src="./Reading/yashetanchi.webp" width="40%">
+
+对于北京的很多所谓地道美食真的喜欢不起来，从雅舍谈吃里的北京特色，到如今遍地宣传的卤煮火烧炒肝儿，真的不喜欢。
+
+## 雅舍小品
+
+<img src="./Reading/yashexiaopin.webp" width="30%">
+
+梁实秋先生算是我大学校友，他的雅舍谈吃我虽然不甚苟同，但雅舍小品我还是很喜欢的。
 
 ## 我与地坛
 
@@ -346,6 +362,10 @@ date: 2022-10-21 13:57:22
 
 ## 沉默的大多数
 
+<img src="./Reading/chenmodedaduoshu.webp" width="30%">
+
+说的就是我。
+
 ## 爱你就像爱生命
 
 <img src="./Reading/ainijiuxiangaishengming.webp" width="35%">
@@ -360,19 +380,19 @@ date: 2022-10-21 13:57:22
 
 ## 瓦尔登湖
 
-<img src="./Reading/waerdenghu.webp" width="35%">
+<img src="./Reading/waerdenghu.webp" width="25%">
 
 梭罗这人有脑子，看见湖泊就高兴，然而这本书真的真的是催眠啊，那时候睡眠不好看两页瓦尔登湖直接呼呼大睡。
 
 ## 海子的诗
 
-<img src="./Reading/haizideshi.jpg" width="40%">
+<img src="./Reading/haizideshi.jpg" width="30%">
 
 高一读朦胧诗，最爱的就是海子，因为他真他妈的朦胧，亚洲铜，太平洋上的贾宝玉，日记等等至今都能背上几句。他是我心目中最纯粹的那种文人，可这样的人总是容易受伤的，我想起房思琪，想起余秋雨那个为了红楼梦割腕的叔叔···
 
 ## 顾城的诗
 
-<img src="./Reading/guchengdeshi.webp" width="40%">
+<img src="./Reading/guchengdeshi.webp" width="30%">
 
 如果说海子在我心中的形象是一个年轻的梦想家，那顾城的诗给我的感觉就一直是一个想要看看世界的懵懂少年。黑夜给了我黑色的眼睛，我却用它寻找光明。
 
@@ -384,9 +404,21 @@ date: 2022-10-21 13:57:22
 
 ## 舒婷的诗
 
-<img src="./Reading/shutingdeshi.jpg" width="35%">
+<img src="./Reading/shutingdeshi.jpg" width="30%">
 
 舒婷的诗可能是当年读的主流朦胧派诗人的诗中最不朦胧的一个，也是最容易模仿的一个，那会儿装模作样写诗往往都是从舒婷这里找到灵感。
+
+## 席慕蓉诗集
+
+<img src="./Reading/ximurongshiji.png" width="25%">
+
+席慕蓉的诗读起来还是挺轻松的，里面有些青春的话题也很能打动那时的我。
+
+## 汪国真诗集
+
+<img src="./Reading/wangguozhen.webp" width="25%">
+
+汪国真这人能处，写诗他不搞那些虚的，很好！
 
 ## 文化苦旅
 
@@ -402,7 +434,7 @@ date: 2022-10-21 13:57:22
 
 ## 妞妞，一个父亲的札记
 
-<img src="./Reading/niuniu.webp" width="35%">
+<img src="./Reading/niuniu.webp" width="30%">
 
 这本书里流露的感情会让人惋惜，会让人赞美，但很难让人流泪。大概这本书诞生之际，妞妞就已经是周国平先生那一段生命中的过客了。
 
@@ -420,7 +452,7 @@ date: 2022-10-21 13:57:22
 
 ## 莎士比亚四大喜剧
 
-<img src="./Reading/shashibiyasidaxiju.webp" width="35%">
+<img src="./Reading/shashibiyasidaxiju.webp" width="30%">
 
 先看过四大悲剧再看这个，就没那么得劲了。
 
@@ -552,7 +584,7 @@ date: 2022-10-21 13:57:22
 
 ## 解忧杂货铺
 
-<img src="./Reading/jieyouzahuopu.webp" width="30%">
+<img src="./Reading/jieyouzahuopu.webp" width="25%">
 
 故事本身还说得过去，但温情又温的不大对味，我自己不是特别喜欢。
 
@@ -598,6 +630,14 @@ date: 2022-10-21 13:57:22
 
 呜呜呜，亲生女儿怎么能这么对待呜呜呜。
 
+## 林清玄散文
+
+<img src="./Reading/linqingxuansanwen.webp" width="30%">
+
+林清玄的书出版的顺序有点让我摸不清头脑，干脆放在一块说了，他这个人我很喜欢，在《开讲了》节目上自嘲外貌像火云邪神，但他的文章有一个地方我不大喜欢——他常在结尾搞一种过于佛系的说教，我这个斤斤计较的人实在看不下去。
+
+## 开讲了
+
 ## 装在口袋里的爸爸
 
 <img src="./Reading/koudaibaba.webp" width="40%">
@@ -623,6 +663,36 @@ date: 2022-10-21 13:57:22
 <img src="./Reading/lwm.webp" width="30%">
 
 我小时候没机会看迪士尼的狮子王，但沈石溪的动物小说系列补上了这个缺口。那时候一本不落的追完了整个系列，甚至看过这些书之后的我对“畜生”两个字有莫名的反感。也是这一套书，让我从一个害怕动物的孩子逐渐地学会尊敬生命、善待他人。
+
+## 我飞了
+
+<img src="./Reading/wofeile.jpg" width="35%">
+
+小学时候黄蓓佳的几本书非常流行，尤其她本人来我们小学举行过一次读者签名会，那会儿几乎是人手两三本她的书，不过对于小学生来说看起来确实还不错。
+
+## 今天我是升旗手
+
+<img src="./Reading/jintianwoshishengqishou.webp" width="30%">
+
+同上，自己感觉小学读还挺不错，虽然当时是被强迫读的···
+
+## 夏洛的网
+
+<img src="./Reading/xialuodewang.webp" width="30%">
+
+其实这本书我初中才看···
+
+## 窗边的小豆豆
+
+<img src="./Reading/chuangbiandexiaodoudou.webp" width="30%">
+
+## 佐贺的超级阿嬷
+
+<img src="./Reading/zuohedechaojiamo.webp" width="30%">
+
+这本书看的我眼泪哗哗的，我从小也跟外婆很要好。
+
+---
 
 # 观影
 
