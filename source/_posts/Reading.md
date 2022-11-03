@@ -558,17 +558,45 @@ date: 2022-10-21 13:57:22
 
 ## 霸王别姬
 
+<img src="./Reading/bawangbieji.webp" width="35%">
+
+书好看，电影更好看。
+
 ## 野火集
+
+<img src="./Reading/yehuoji.webp" width="25%">
+
+第一次读龙应台的书，直到读完都还以为她是个老头子。
 
 ## 目送
 
+<img src="./Reading/musong.webp" width="30%">
+
+最质朴的感情，去能屡试不爽的打动我。
+
 ## 亲爱的安德烈
+
+<img src="./Reading/qinaideandelie.jpeg" width="30%">
+
+龙应台又一次让我见识到女人吵架时和面对自己的孩子时的态度能有多大的差别···
 
 ## 孩子，你慢慢来
 
+<img src="./Reading/haizinimanmanlai.webp" width="30%">
+
+看完感觉我都可以当妈妈了···
+
 ## 基督山伯爵
 
+<img src="./Reading/jidushanbojue.webp" width="30%">
+
+这不就是个正常小说讲了个普通故事为啥就名著了呀···
+
 ## 欧也妮·葛朗台
+
+<img src="./Reading/ouyenigelangtai.webp" width="30%">
+
+呜呜呜，亲生女儿怎么能这么对待呜呜呜。
 
 ## 装在口袋里的爸爸
 
