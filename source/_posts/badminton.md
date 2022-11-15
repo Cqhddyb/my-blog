@@ -146,16 +146,16 @@ width="45%">
 
 ### 尤尼克斯 
 
-<img src="./badminton/yonex.png" width="40%">
+<img src="./badminton/yonex.png" width="35%">
 
 #### 弓箭系列
 
 ##### 弓11新色 3UG5
 
-<img src="./badminton/gong11-1.jpg" width="60%">
+<img src="./badminton/gong11-1.jpg" width="40%">
 
 弓11是我第一把3U规格的拍子，也是第一把高端拍，至于为什么第一把选择了她，最重要的因素还是看中了她的颜值。
-<img src="./badminton/gong11-2.jpg" width="50%">
+<img src="./badminton/gong11-2.jpg" width="35%">
 
 刚穿完线挥动起来还是有点担忧的，并不是立马能够适应，但打了一场之后就深深爱上了。
 
