@@ -733,6 +733,12 @@ date: 2022-10-21 13:57:22
 
 马克吐温咋这么受美国人欢迎呢，我读他的短篇小说也没觉得哪里很好···
 
+## 老人与海
+
+<img src="./Reading/laorenyuhai.webp" width="30%">
+
+一个人可以被毁灭，但绝不能给打败。有点心灵鸡汤那味儿了。
+
 ## 蛙
 
 <img src="./Reading/wamoyan.webp" width="35%">
@@ -868,6 +874,12 @@ date: 2022-10-21 13:57:22
 <img src="./Reading/antushengtonghua.webp" width="30%">
 
 相比之下，安徒生童话就好看的多，里面的故事明明是童话缺一个比一个令我感到真实。据说安徒生本人一生也并不幸福，童话大王的生命里并没有发生童话。
+
+## 王尔德童话
+
+<img src="./Reading/wangerdetonghua.webp" width="25%">
+
+小时候读快乐王子伤心了好久。
 
 ## 稻草人
 
